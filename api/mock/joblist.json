@@ -1,0 +1,67 @@
+[
+  {
+    "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+    "positionName": "Gerber Operatörü",
+    "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+    "durationDay": 0,
+    "durationDayText": "Taze çıktı!",
+    "imageUrl": "",
+    "distance": "8,53 km yakınında",
+    "latitude": 41.050968170166023,
+    "longitude": 29.062856674194339,
+    "cityName": "İstanbul",
+    "townName": "Çengelköy Mahallesi"
+  },
+  {
+    "jobId": "C71CD1954BA149BCAF42B25F775EA4FC",
+    "positionName": "Backend Developer",
+    "companyName": "Kariyer.Net",
+    "durationDay": 0,
+    "durationDayText": "...",
+    "imageUrl": "",
+    "distance": "15,53 km yakınında",
+    "latitude": 41.050968170166023,
+    "longitude": 29.062856674194339,
+    "cityName": "Kocaeli",
+    "townName": "İzmit"
+  },
+  {
+    "jobId": "C71CD1954BA149BCAF42B25F775EA4FD",
+    "positionName": "Frontend Developer",
+    "companyName": "Kariyer.Net",
+    "durationDay": 0,
+    "durationDayText": "...",
+    "imageUrl": "",
+    "distance": "11,53 km yakınında",
+    "latitude": 41.050968170166023,
+    "longitude": 29.062856674194339,
+    "cityName": "İstanbul",
+    "townName": "Ümraniye"
+  },
+  {
+    "jobId": "C71CD1954BA149BCAF42B25F775EA4FE",
+    "positionName": "FullStack Developer",
+    "companyName": "Kariyer.Net",
+    "durationDay": 0,
+    "durationDayText": "...",
+    "imageUrl": "",
+    "distance": "600,44 km yakınında",
+    "latitude": 41.050968170166023,
+    "longitude": 29.062856674194339,
+    "cityName": "İzmir",
+    "townName": "Alsancak"
+  },
+  {
+    "jobId": "C71CD1954BA149BCAF42B25F775EA4FF",
+    "positionName": "Devops Engineer",
+    "companyName": "Kariyer.Net",
+    "durationDay": 0,
+    "durationDayText": "...",
+    "imageUrl": "",
+    "distance": "400,55 km yakınında",
+    "latitude": 41.050968170166023,
+    "longitude": 29.062856674194339,
+    "cityName": "Ankara",
+    "townName": "Çankaya"
+  }
+]
